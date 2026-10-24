@@ -6,6 +6,8 @@ FLUX 3 Action is an open weights 7B world action model from [Black Forest Labs](
 It takes camera frames, the robot's state and a text instruction, and returns the next chunk of actions,
 denoised together with the next video frames.
 
+https://www.youtube.com/watch?v=GhSOrp77oDI
+
 This repository is the standalone training and inference code for robots, simulators and games.
 
 [Weights](https://huggingface.co/collections/black-forest-labs/flux-3-action) ·
